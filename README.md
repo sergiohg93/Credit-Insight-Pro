@@ -1,1 +1,1 @@
-# Credit-Insight-Pro v1.0
+# Credit-Insight-Pro Application
